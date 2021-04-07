@@ -1,0 +1,12 @@
+.almond div {
+    border-radius: 50%;
+    border: 2px solid blue;
+}
+
+.circle {
+    border-radius: 50%;
+    border: 2px solid blue;
+    width: 200px;
+    height: 200px; 
+    /* width and height can be anything, as long as they're equal */
+}
